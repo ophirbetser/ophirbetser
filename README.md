@@ -5,6 +5,7 @@
 ### 🚀 Live projects
 | Project | What it is |
 |---|---|
+| [r-guesser](https://ophirbetser.github.io/r-guesser/) | A retro-arcade game: eyeball a scatter plot and guess the correlation |
 | [gaussian-mixture-viz](https://ophirbetser.github.io/gaussian-mixture-viz/) | Interactive visualizer for a mixture of Gaussians: PDF, components and CDF |
 | [tile-fusion](https://ophirbetser.github.io/tile-fusion/) | A sliding-tile merge puzzle for the browser |
 
